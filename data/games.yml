@@ -1,0 +1,57 @@
+# portfolio filter list
+list:
+  - title : "CENTRAL AFRICA"
+    type : "central"
+
+  - title : "EAST AFRICA"
+    type : "east"
+
+  - title : "SOUTHERN AFRICA"
+    type : "southern"
+
+  - title : "WEST AFRICA"
+    type : "west"
+
+  - title : "NORTH AFRICA"
+    type : "north"
+
+# portfolio item
+item:
+  - image : "images/portfolio/ourgame.gif"
+    projectURL : "#"
+    projectType:
+      - type: "southern"
+      - type: "east"
+
+  - image : "images/portfolio/item8.gif"
+    projectURL : "#"
+    projectType:
+      - type: "west"
+
+  - image : "images/portfolio/theirgame1.gif"
+    projectURL : "#"
+    projectType:
+      - type: "southern"
+
+  - image : "images/portfolio/mygame.gif"
+    projectURL : "#"
+    projectType:
+      - type: "north"
+      - type: "west"
+
+  - image : "images/portfolio/item6.gif"
+    projectURL : "#"
+    projectType:
+      - type: "north"
+
+  - image : "images/portfolio/yourgame.gif"
+    projectURL : "#"
+    projectType:
+      - type: "central"
+
+  - image : "images/portfolio/hergame.gif"
+    projectURL : "#"
+    projectType:
+      - type: "east"
+      - type: "central"
+      - type: "west"

@@ -1,0 +1,12 @@
+step:
+  - title : "Profile"
+    icon : "images/icons/memoicon.png"
+    content : "We profile women in Africa of all experience levels who have made a game before or been involved in game development activities to increase visibility of African women in games."
+
+  - title : "Create"
+    icon : "images/icons/gameicon.png"
+    content : "Through various platforms, we provide resources and create engaging content to assist beginners in learning game development tools. Look out for our live-streams"
+
+  - title : "Events"
+    icon : "images/icons/codericon.png"
+    content : "We collaborate with you to host physical and virtual events on request. If you are a group that is interested in learning game development through us, contact us here."
